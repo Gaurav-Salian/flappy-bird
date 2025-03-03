@@ -32,7 +32,7 @@ let bottompipe;
 //physics
 velocityx= -2;
 velocityy= 0;
-gravity =0.042;
+gravity =0.0;
 
 let gameover =false;
 let score =0;
