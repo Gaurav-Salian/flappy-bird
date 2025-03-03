@@ -159,7 +159,7 @@ function placepipes() {
 function movebird(e){
 	if (e.code =="Space" || e.code =="ArrowUp" || e.code =="KeyX"){
 		//jump
-		velocityy= -6;
+		velocityy= -4;
 	}
 
 	if (e.code =="Enter"){
